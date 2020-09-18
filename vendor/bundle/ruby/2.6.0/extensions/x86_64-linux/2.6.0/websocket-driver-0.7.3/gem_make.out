@@ -1,0 +1,15 @@
+current directory: /home/gabriel/Documentos/Projetos/internship-challenge-1/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.6.3/bin/ruby -I /usr/share/rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200917-8271-1r1abj2.rb extconf.rb
+creating Makefile
+
+current directory: /home/gabriel/Documentos/Projetos/internship-challenge-1/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/gabriel/Documentos/Projetos/internship-challenge-1/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/gabriel/Documentos/Projetos/internship-challenge-1/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20200917-8271-142c90e
